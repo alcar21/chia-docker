@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM dorowu:ubuntu-desktop-lxde:latest
 
 EXPOSE 8555
 EXPOSE 8444
